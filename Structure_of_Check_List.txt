@@ -1,3 +1,0 @@
-1. Test case title
-2. True/False
-3. Comments
