@@ -4,5 +4,3 @@ touch
 vim
 pwd
 rm
-
-[Amv[B[D[D
