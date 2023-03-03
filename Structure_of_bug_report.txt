@@ -1,0 +1,12 @@
+ID: number 
+Severity:
+1 Critical,
+2 Major,
+3 Minor,
+4 Trivial,
+Environment: Description of environment
+Title: Description of bug
+Steps: Steps to reproduce the bug
+Expected Result: Description of ER
+Actual Result: Description of AR
+Link: Video or photo with bug
